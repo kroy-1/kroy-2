@@ -25,6 +25,15 @@ int main()
 		result = num * num;
 		printf("Area of square=");
 		output(result);
+		
+
+	
+
+	printf("Press 3 to calculate area of sphere\n");
+
+	printf("Enter your choice:\n");
+
+	choice = input();	
 		break;
 	}
 	case 3: {
